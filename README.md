@@ -14,3 +14,6 @@
 - https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/
 - https://nodejs.org/api/cli.html#cli_uv_threadpool_size_size
 - https://www.youtube.com/watch?v=zphcsoSJMvM
+- https://www.youtube.com/watch?v=P9csgxBgaZ8
+- https://nodejs.org/uk/docs/guides/dont-block-the-event-loop/
+- https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c
